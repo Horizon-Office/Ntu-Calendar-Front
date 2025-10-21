@@ -36,4 +36,3 @@ pnpm dev
 # або
 bun install
 bun dev
-
