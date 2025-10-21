@@ -3,7 +3,7 @@
 - SoftServe Academy
 - Developed with Horizon team
   - Discord: https://discord.gg/your-invite
-  - Email: team@horizon.office
+  - Email: jira@horrizonoffice.atlassian.net
 
 
 # 🚀 Запуск проєкту
